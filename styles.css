@@ -2,8 +2,8 @@
 .content{
 	background-color:#000000;
 	color:white;
-	padding:20px;
-	font-size:12x;
+	padding:15px;
+	font-size:10x;
 	font-family:sans-serif;
 }
 
@@ -20,11 +20,6 @@
 
 .link-boxes {
 	display:flex;
-}
-
-.link-boxes p{
-	padding:10px;
-	/* text-decoration:underline; */
 }
 
 a{
