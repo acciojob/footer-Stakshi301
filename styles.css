@@ -13,9 +13,9 @@
 	
 }
 
-.media-icons a{
-	margin-left:75%;
+.media-icons {
 	display:flex;
+	justify-content:end;
 }
 
 
