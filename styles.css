@@ -1,1 +1,48 @@
 /* your code here */
+.content{
+	background-color:#000000;
+	color:white;
+	padding:20px;
+	font-size:12x;
+	font-family:sans-serif;
+}
+
+.logo_name{
+	font-weight:500;
+	font-size:25px;
+	
+}
+
+.media-icons{
+	margin-left:75%;
+}
+
+
+.link-boxes {
+	display:flex;
+}
+
+.link-boxes p{
+	padding:10px;
+	/* text-decoration:underline; */
+}
+
+a{
+	text-decoration:none;
+	color:lightgrey;
+}
+
+
+
+.bottom-details{
+	color:white;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:#2C303A;
+	display:flex;
+	justify-content:space-between;
+}
+
+span{
+	color:lightgrey;
+}
